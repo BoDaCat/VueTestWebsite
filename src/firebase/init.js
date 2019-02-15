@@ -2,12 +2,12 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 
 var config = {
-  apiKey: "AIzaSyDWQJQOPoKWSl5GrP_j2qKdRW4geyr2NEk",
+  apiKey: "******************",
   authDomain: "fav-foods-test.firebaseapp.com",
-  databaseURL: "https://fav-foods-test.firebaseio.com",
+  databaseURL: "******************",
   projectId: "fav-foods-test",
-  storageBucket: "fav-foods-test.appspot.com",
-  messagingSenderId: "565431069520"
+  storageBucket: "******************",
+  messagingSenderId: "******************"
 };
 
 const firebaseApp = firebase.initializeApp(config);
