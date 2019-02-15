@@ -1,5 +1,8 @@
 # food-app
 
+live test site can be found: https://fav-foods-test.firebaseapp.com/
+
+
 ## Project setup
 ```
 npm install
